@@ -3,7 +3,7 @@
 
 **🤔 Web Server**
 
-<a href="https://linuxyb.kimyongbhin.repl.co">**🤔 Linux Server**</a>
+<a href="https://linuxyb.kimyongbhin.repl.co">**🤔 Linux Server**</a> **(22.2.3 ~ 22.2.24)**
 
 
 <!--
