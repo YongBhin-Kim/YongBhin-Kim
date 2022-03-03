@@ -2,6 +2,12 @@
 ---
 
 **🌒 Web Server**
+- [ ~ 20-01-13] : Linux, Wireshark 공부
+- [20-01-13 ~ 20-01-26] : JNI 기초 공부
+- [20-01-26 ~ 20-01-30] : Front 공부
+- [20-01-29 ~ 20-02-23] : Web Server Spring Demo 공부
+- [20-02-23 ~ ] : Web Server 게시판 만들기 (진행중)
+
 
 <a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a> **(22.2.3 ~ 22.2.24)**
 
