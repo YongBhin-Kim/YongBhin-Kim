@@ -9,9 +9,9 @@
 - [20-02-23 ~ ] : Web Server 게시판 만들기 (진행중)
 
 
-<a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a> **(22.2.3 ~ 22.2.24)**
+<a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a> **(22-02-03 ~ 22-02-24)**
 
-<a href="https://yongbhin-effort.tistory.com/">**🌒 Error, Contemplation and Solution process**</a> **(22.2.14 ~ )**
+<a href="https://yongbhin-effort.tistory.com/">**🌒 Error, Contemplation and Solution process**</a> **(22-02-14 ~ )**
 
 
 <h3 align = "center">🏆 Teck Stack 🏆<h3>
