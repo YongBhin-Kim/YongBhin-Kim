@@ -26,5 +26,4 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="max-width: 100%;"></a>&nbsp
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white" style="max-width: 100%;"></a>&nbsp
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white" style="max-width: 100%;"></a>&nbsp
-  
 </p>
