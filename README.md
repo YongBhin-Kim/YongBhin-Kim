@@ -7,7 +7,7 @@
 - [22-01-26 ~ 22-01-30] : Node, React
 - [22-01-29 ~ 22-02-26] : Spring
 - [22-02-23 ~ 22-03-20] : Web Server 게시판 만들기
-- [22-03-21 ~ ] : Spring
+- [22-03-21 ~ ] : Spring Boot
 
 
 <a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a> **(22-02-03 ~ 22-02-24)**
