@@ -8,7 +8,10 @@
 - [22-01-29 ~ 22-02-26] : Spring
 - [22-02-23 ~ 22-03-20] : Web Server 게시판 만들기 
 - [22-03-21 ~ ] : Spring Boot
-- [22-04-29 ~ ] : Spring Boot Docker Image 생성
+- [22-04-29 ~ ] : Spring Boot Docker Image 
+- ver1.0 Spring Boot Docker Image - 구축
+- ver1.1 Spring Boot Docker Image - 통신
+- ver2.0 Spring Boot Docker Image - 게시판
 
 
 <a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a> **(22-02-03 ~ 22-02-24)**
