@@ -7,7 +7,7 @@
 - [22-01-26 ~ 22-01-30] : Node, React
 - [22-01-29 ~ 22-02-26] : Spring
 - [22-02-23 ~ 22-03-20] : Web Server 게시판 만들기 
-- [22-03-21 ~ ] : Spring Boot
+- [22-03-21 ~ ] : Spring Boot 기본
 - [22-04-29 ~ ] : Spring Boot Docker Image 
 - - Ver1.0 Spring Boot Docker Image - 구축
 - - Ver1.1 Spring Boot Docker Image - 통신
