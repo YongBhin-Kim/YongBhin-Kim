@@ -12,7 +12,7 @@
 - - Ver1.0 Spring Boot Docker Image - 구축
 - - Ver1.1 Spring Boot Docker Image - 통신
 - - Ver2.0 Spring Boot Docker Image - 게시판
-- [22-05-16 ~ ] : Application - Do Exercise!
+- [22-05-16 ~ ] : Application - Do Exercise
 
 <a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a> **(22-02-03 ~ 22-02-24)**
 
