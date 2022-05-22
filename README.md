@@ -2,7 +2,7 @@
 ---
 
 **🌒 Web Server**
-- [21-12. ~ 22-01-13] : Linux, Wireshark
+- [21-12 ~ 22-01-13] : Linux, Wireshark
 - [22-01-13 ~ 22-01-26] : Java, JNI, HTML, CSS
 - [22-01-26 ~ 22-01-30] : Node, React
 - [22-01-29 ~ 22-02-26] : Spring
