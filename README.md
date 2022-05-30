@@ -13,7 +13,7 @@
 - - Ver1.1 Spring Boot Docker Image - 통신
 - - Ver1.2 Spring Boor Docker Image - JNI를 이용한 암/복호화 통신 (---- 진행중)
 - - Ver2.0 Spring Boot Docker Image - 게시판
-- [22-05-24 ~ ] : Application - 두근득근 (PumpIT) // workout
+- [22-05-24 ~ ] : Application - 두근득근 (PumpIT)
 
 <a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a> **(22-02-03 ~ 22-02-24)**
 
