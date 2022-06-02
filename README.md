@@ -8,11 +8,11 @@
 - [22-01-29 ~ 22-02-26] : Spring
 - [22-02-23 ~ 22-03-20] : Web Server 게시판 만들기 
 - [22-03-21 ~ ] : Spring Boot 기본
-- [22-04-29 ~ ] : Spring Boot Docker Image 
-- - Ver1.0 Spring Boot Docker Image - 구축
-- - Ver1.1 Spring Boot Docker Image - 통신
-- - Ver1.2 Spring Boor Docker Image - JNI를 이용한 암/복호화 통신 (---- 진행중)
-- - Ver2.0 Spring Boot Docker Image - 게시판
+- [22-04-29 ~ ] : Spring Boot의 활용(+ Docker Image)
+- - Ver1.0 Spring Boot(+ Docker Image) - 도커 이미지 구축
+- - Ver1.1 Spring Boot(+ Docker Image) - 통신
+- - Ver1.2 Spring Boot(+ Docker Image) - JNI를 이용한 암/복호화 통신 (###Server-Client 통신 구현 완료 ### Client Enc/Dec 구현 완료### Server Enc/Dec 구현중 ###)
+- - Ver2.0 Spring Boot(+ Docker Image) - 게시판
 - [22-05-24 ~ ] : Application - 두근득근 (PumpIT) 백그라운드
 
 <a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a> **(22-02-03 ~ 22-02-24)**
