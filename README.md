@@ -19,7 +19,7 @@
 <a href="https://yongbhin-effort.tistory.com/">**🌒 Error, Contemplation and Solution process**</a> **(22-02-14 ~ )**
 
 **🌒 Application**
-- [22-05-24 ~ ] : Application - 두근득근 (PumpIT)
+- [22-05-24 ~ ] : Application - 두근득근(PumpIT)
 
 
 <h3 align = "center">🏆 Teck Stack 🏆<h3>
