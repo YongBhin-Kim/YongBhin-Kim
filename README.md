@@ -16,7 +16,7 @@
 
 
 
-**🌒 modbus tls** 
+**🌒 modbus tls communication**
 
 <a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a> **(22-02-03 ~ 22-02-24)**
 
