@@ -15,7 +15,7 @@
 - - Ver2.0 Spring Boot(+ Docker Image) - 게시판
 
 **🌒 modbus tls communication**
- - [22.08. ~] : Use TCP, File I/O (loopback -> File I/O)
+ - [22.08. ~] : Use TCP (loopback -> File I/O -> skip)
 
 
 <a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a> **(22-02-03 ~ 22-02-24)**
