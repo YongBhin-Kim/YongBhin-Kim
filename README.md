@@ -25,6 +25,8 @@
 **🌒 Application**
 - [22-06-21 ~ ] : connectApp with HC
 
+**🌒 Crypto-Math**
+- [22-09-14 ~ ] : connectApp with HC
 
 <h3 align = "center">🏆 Teck Stack 🏆<h3>
 <p align = "center">
