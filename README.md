@@ -25,7 +25,7 @@
 <a href="https://yongbhin-effort.tistory.com/">**🌒 Error, Contemplation and Solution process**</a> **(22-02-14 ~ )**
 
 **🌒 Application**
-- [22-06-21 ~ ] : connectApp with HC
+- [22-06-21 ~ ] : Android, IOS Application : connectApp with HC
 
 **🌒 Crypto-Math**
 - [22-09-14 ~ ] : Crypto-Math Implementation
