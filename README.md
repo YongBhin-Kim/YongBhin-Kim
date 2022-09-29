@@ -26,7 +26,7 @@
 - [22-06-21 ~ ] : Android, IOS Application : connectApp with HC
 
 **🌒 Crypto-Math**
-- <a href="https://github.com/YongBhin-Kim/Crypto"> Crypto-Math Implementation </a>
+- <a href="https://github.com/YongBhin-Kim/Crypto"> **Crypto-Math Implementation** </a> 
 
 **🌒 PQC**
 
