@@ -36,7 +36,7 @@
 <br>
 
 <a href="https://github.com/YongBhin-Kim/Crypto"> **🌒Crypto-Math Implementation** </a> 
-- 현대암호
+- 현대암호 : AES
 <br>
 
 **🌒 PQC**
