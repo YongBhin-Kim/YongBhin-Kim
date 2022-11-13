@@ -19,7 +19,7 @@
 
 
 **🌒 modbus tls communication**
- - [22.08. ~] : Use TCP
+ - [22.08. ~]
  - modbus뿐 아니라 TCP를 이용한 다양한 프로토콜에 TLS를 씌운 통신이 가능한 모듈 개발
  - kem을 통한 secure share값을 이용하여 LEA-GCM으로 경량 환경에서 modbus packet의 암복호 통신이 가능한 모듈 개발
 <br>
