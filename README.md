@@ -40,7 +40,7 @@
 <br>
 
 **🌒 PQC**
-- 미래암호 : 그래프 기반 암호 IPCC(Improved Perpect Code Cryptography)
+- 미래암호 : 그래프 기반 암호 IPCC(Improved Perpect Code Cryptosystem)
 - - 2022.10. KpqC 1Round 제출
 <br>
 
