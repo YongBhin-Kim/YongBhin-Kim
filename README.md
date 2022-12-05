@@ -41,7 +41,7 @@
 
 **🌒 PQC**
 - 미래암호 : 그래프 기반 암호 IPCC(Improved Perpect Code Cryptosystem)
-- - 2022.10. KpqC 1Round 제출
+- - <a href="https://kpqc.or.kr/contents/04_data/board.html?board_id=board_reference">**2022.10. KpqC 1Round 제출** </a>
 <br>
 
 2021 국민대학교 정보보안암호수학과 국민암호페스티벌 암호분석경진대회 최우수팀 <br>
