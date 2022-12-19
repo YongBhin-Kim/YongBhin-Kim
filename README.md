@@ -3,13 +3,9 @@
 
 
 <a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 Web Server**</a>
-- [21-12. ~ 22-01-13] : Linux, Wireshark
-- [22-01-13 ~ 22-01-26] : Java, JNI, HTML, CSS
-- [22-01-26 ~ 22-01-30] : Node, React
-- [22-01-29 ~ 22-02-26] : Spring 
-- [22-02-23 ~ 22-03-20] : Web Server 게시판 만들기 
-- [22-03-21 ~ ] : Spring Boot 기본
-- [22-04-29 ~ ] : Spring Boot의 활용(+ Docker Image)
+- [21.12. ~ 22.02.] : Linux, Wireshark / Java, JNI, HTML, CSS / Node, React / Spring 
+- [22.02. ~ 22.03.] : Web Server 게시판 만들기 
+- [22.04.29 ~] : Spring Boot(+ Docker Image)
 - - Ver1.0 Spring Boot(+ Docker Image) - 도커 이미지 구축
 - - Ver1.1 Spring Boot(+ Docker Image) - 통신
 - - Ver1.2 Spring Boot(+ Docker Image) - JNI를 이용한 암/복호화 통신
@@ -18,10 +14,11 @@
 
 
 
-**🌒 modbus tls communication(한국에너지기술연구원)**
- - [22.08. ~]
+**🌒 secure communication**
+ - [22.08. ~] Project : modbus tls communication (한국에너지기술연구원)
+ - modbus 프로토콜에 양자내성암호를 적용하여 양자컴퓨팅 환경에서도 secure 통신이 가능한 모듈 개발
+ - 하이브리드 방식 kem(Key Encapsulation Mechanism)을 통해 얻은 secure share(private key)값을 이용하여 LEA-GCM으로 경량 환경에서 modbus packet의 암호화 통신이 가능한 모듈
  - modbus뿐 아니라 TCP를 이용한 다양한 프로토콜에 TLS를 씌운 통신이 가능한 모듈 개발
- - kem을 통한 secure share값을 이용하여 LEA-GCM으로 경량 환경에서 modbus packet의 암복호 통신이 가능한 모듈 개발
 <br>
 
 <a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a>
@@ -31,19 +28,20 @@
 <br>
 
 **🌒 Application**
-- [22-06-21 ~ ] : Android, IOS Application : connectApp with HC
+- [22.06. ~] : Android, IOS Application : connectApp with HC
 <br>
 
 **🌒 고전암호와 분석**
 <br>
 
-<a href="https://github.com/YongBhin-Kim/Crypto"> **🌒Crypto-Math Implementation** </a> 
-- 현대암호 : AES
+**🌒 현대암호 : crypto-Math Implementation**
+- <a href="https://github.com/YongBhin-Kim/Crypto"> **AES** </a> 
+
 <br>
 
 **🌒 PQC**
-- 미래암호 : 그래프 기반 암호 IPCC(Improved Perpect Code Cryptosystem)
-- - <a href="https://kpqc.or.kr/contents/03_exhibit/sub01.html">**2022.10. KpqC 1Round 제출 ** </a>
+- **그래프 기반 암호 IPCC(Improved Perpect Code Cryptosystem)**
+- - <a href="https://kpqc.or.kr/contents/03_exhibit/sub01.html"> **2022.10. KpqC 1Round 제출** </a>
 <br>
 
 **Secure FTP Program**
