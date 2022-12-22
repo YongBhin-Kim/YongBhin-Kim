@@ -13,7 +13,6 @@
 <br>
 
 
-
 **🌒 Secure communication**
  - [22.08. ~] Project : modbus tls communication (한국에너지기술연구원)
  - modbus 프로토콜에 양자내성암호를 적용하여 양자컴퓨팅 환경에서도 secure 통신이 가능한 모듈 개발
@@ -36,6 +35,11 @@
 
 **🌒 현대암호 : crypto-Math Implementation**
 - <a href="https://github.com/YongBhin-Kim/Crypto"> **AES** </a> 
+- ARIA
+- LEA
+- SEED
+- GIFT
+- RSA
 
 <br>
 
