@@ -2,16 +2,20 @@
 ---
 
 **🌒 Secure communication**
- - [22.08. ~] Project : modbus tls communication (한국에너지기술연구원)
- - modbus 프로토콜에 양자내성암호를 적용하여 양자컴퓨팅 환경에서도 secure 통신이 가능한 모듈 개발
- - 하이브리드 방식 kem(Key Encapsulation Mechanism)을 통해 얻은 secure share(private key)값을 이용하여 LEA-GCM으로 경량 환경에서 modbus packet의 암호화 통신이 가능한 모듈
- - modbus뿐 아니라 TCP를 이용한 다양한 프로토콜에 TLS를 씌운 통신이 가능한 모듈 개발
+ - Project : modbus tls communication (한국에너지기술연구원, 22.08. ~)
+ - - modbus 프로토콜에 양자내성암호를 적용하여 양자컴퓨팅 환경에서도 secure 통신이 가능한 모듈 개발
+ - - 하이브리드 방식 kem(Key Encapsulation Mechanism)을 통해 얻은 secure share(private key)값을 이용하여 LEA-GCM으로 경량 환경에서 modbus packet의 암호화 통신이 가능한 모듈
+ - - modbus뿐 아니라 TCP를 이용한 다양한 프로토콜에 TLS를 씌운 통신이 가능한 모듈 개발
+
+ - <a href="https://github.com/YongBhin-Kim/secure_ftp_program">**Secure FTP Program**</a>
+ - - TCP Server/Client
+ - - Hybrid - RSAES, AES-GCM
 <br>
 
 **🌒 고전암호와 분석**
 <br>
 
-**🌒 현대암호 : crypto-Math Implementation**
+**🌒 현대암호 : Crypto-math implementation**
 - <a href="https://github.com/YongBhin-Kim/Crypto"> **AES** </a> 
 - ARIA
 - LEA
@@ -25,14 +29,10 @@
 - **그래프 기반 암호 IPCC(Improved Perpect Code Cryptosystem)**
 - - <a href="https://kpqc.or.kr/contents/03_exhibit/sub01.html"> **2022.10. KpqC 1Round 제출** </a>
 
-**🌒 Secure FTP Program**
-- TCP Server/Client
-- Hybrid - RSAES, AES-GCM
 
-<a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 Web Server**</a>
-- [21.12. ~ 22.02.] : Linux, Wireshark / Java, JNI, HTML, CSS / Node, React / Spring 
-- [22.02. ~ 22.03.] : Web Server 게시판 만들기 
-- [22.04.29 ~] : Spring Boot(+ Docker Image)
+<a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 Secure web server**</a>
+- Linux, Wireshark / Java, JNI, HTML, CSS / Node, React / Spring study
+- Web Server 게시판
 - - Ver1.0 Spring Boot(+ Docker Image) - 도커 이미지 구축
 - - Ver1.1 Spring Boot(+ Docker Image) - 통신
 - - Ver1.2 Spring Boot(+ Docker Image) - JNI를 이용한 암/복호화 통신
