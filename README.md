@@ -1,7 +1,7 @@
-# YongBhin's GitHub (🌒 -> 🌓 -> 🌔 -> 🌕)
+# YongBhin's GitHub  🌒 🌓 🌔 🌕
 ---
 
-**🌒 Secure communication**
+**🌔 Secure communication**
  - **Project : modbus tls communication (한국에너지기술연구원, 22.08. ~)**
  - - modbus 프로토콜에 양자내성암호를 적용하여 양자컴퓨팅 환경에서도 secure 통신이 가능한 모듈 개발
  - - 하이브리드 방식 kem(Key Encapsulation Mechanism)을 통해 얻은 secure share(private key)값을 이용하여 LEA-GCM으로 경량 환경에서 modbus packet의 암호화 통신이 가능한 모듈
@@ -15,7 +15,7 @@
 **🌒 고전암호와 분석**
 <br>
 
-**🌒 현대암호 : Crypto-math implementation**
+**🌓 현대암호 : Crypto-math implementation**
 - <a href="https://github.com/YongBhin-Kim/Crypto"> **AES** </a> 
 - **ARIA**
 - **LEA**
@@ -25,7 +25,7 @@
 
 <br>
 
-**🌒 PQC**
+**🌓 PQC**
 - **그래프 기반 암호 IPCC(Improved Perpect Code Cryptosystem)**
 - - <a href="https://kpqc.or.kr/contents/03_exhibit/sub01.html"> **2022.10. KpqC 1Round 제출** </a>
 
