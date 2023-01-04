@@ -28,8 +28,8 @@
 **🌓 PQC**
 - **그래프 기반 암호 IPCC(Improved Perpect Code Cryptosystem)**
 - - <a href="https://kpqc.or.kr/contents/03_exhibit/sub01.html"> **2022.10. KpqC 1Round 제출** </a>
-- **격자 기반 암호 Crystals-KYBER analysis & implement**
-- - NSHC 암호기술연구소 인턴 (23.1.2 ~ 23.2.28)
+- **격자 기반 암호 Crystals-KYBER**
+- - Analysis & Implement / NSHC 암호기술연구소 인턴쉽 프로그램 (23.1.2 ~ 23.2.28)
 
 <a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 Secure web server**</a>
 - **Linux, Wireshark / Java, JNI, HTML, CSS / Node, React / Spring study**
@@ -55,15 +55,19 @@
 
 <br>
 
+**[인턴]**
+- ?
+<br>
+
+**[특허]**
+- ?
+<br>
+
 **[공모전]**
 - ?
 <br>
 
 **[프로젝트]**
-- ?
-<br>
-
-**[특허]**
 - ?
 <br>
 <br>
