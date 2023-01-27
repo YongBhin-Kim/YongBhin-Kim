@@ -10,11 +10,11 @@
 
  - <a href="https://github.com/YongBhin-Kim/secure_ftp_program">**Secure FTP Program**</a>
  - - TCP Server/Client
- - - Hybrid Cryptosystem - RSAES, AES-GCM (Using Openssl)
+ - - Hybrid Cryptosystem - RSAES, AES-GCM (use openssl)
 
  - **Secure Network Program**
  - - TCP Server/Client
- - - Symmetric Cryptosystem yet - ARIA-CTR (Only my implementation)
+ - - Symmetric Cryptosystem - ARIA-GCM (directly implemented)
 <br>
 
 **🌒 고전암호와 분석**
