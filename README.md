@@ -20,7 +20,7 @@
 **🌒 고전암호와 분석**
 <br>
 
-**🌓 현대암호 : Crypto-math implementation**
+**🌓 현대암호 : Crypto-math implementation(+ parallel implementation)**
 - <a href="https://github.com/YongBhin-Kim/Crypto"> **AES** </a> 
 - <a href="https://github.com/YongBhin-Kim/Crypto"> **ARIA** </a> 
 - **LEA**
