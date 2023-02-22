@@ -13,7 +13,7 @@
 
  - **Secure Network Program**
  - - TCP Server/Client
- - - Symmetric Cryptosystem - ARIA-GCM (directly implemented)
+ - - Symmetric Cryptosystem - ARIA-GCM (directly implemented) (+ parallel implementation)
 <br>
 
 **🌒 고전암호와 분석**
