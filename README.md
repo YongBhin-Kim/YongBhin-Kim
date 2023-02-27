@@ -36,7 +36,7 @@
 - - Analysis & Implement / NSHC 암호기술연구소 인턴쉽 프로그램
 
 <a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 Secure web server**</a>
-- **Linux, Wireshark / Java, JNI, HTML, CSS / Node, React / Spring study**
+- **Linux, Wireshark / Java, JNI, HTML, CSS / Node, React / Spring**
 - **Web Server 게시판**
 - - Ver1.0 Spring Boot(+ Docker Image) - 도커 이미지 구축
 - - Ver1.1 Spring Boot(+ Docker Image) - 통신
@@ -102,5 +102,6 @@
   <br>
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white" style="max-width: 100%;"></a>&nbsp
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white" style="max-width: 100%;"></a>&nbsp
+  <Dart, Rust>
   <br>
 </p>
