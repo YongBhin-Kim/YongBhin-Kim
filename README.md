@@ -48,7 +48,7 @@
 <a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a>
 <br>
 
-<a href="https://rb.kimyongbhin.repl.co">**🌒 Circles RB**</a>
+<a href="https://rb.yongbhin-kim.repl.co/">**🌒 Circles RB**</a>
 <br>
 
 <a href="https://yongbhin-effort.tistory.com/">**🌒 Error, Contemplation and Solution process**</a>
