@@ -41,7 +41,7 @@
 - **Web Server 게시판**
 - - Ver1.0 Spring Boot(+ Docker Image) - 도커 이미지 구축
 - - Ver1.1 Spring Boot(+ Docker Image) - 통신
-- - Ver1.2 Spring Boot(+ Docker Image) - JNI를 이용한 암/복호화 통신
+- - Ver1.2 Spring Boot(+ Latest) - JNI를 이용한 암/복호화 통신
 - - Ver2.0 Spring Boot(+ Docker Image) - 게시판
 <br>
 
