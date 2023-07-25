@@ -3,7 +3,7 @@
 
 
 **🌔 Secure communication**
- - **Project : modbus tls communication (한국에너지기술연구원, 22.08. ~)**
+ - **Project : modbus tls communication (한국에너지기술연구원, 22.08. ~24.)**
  - - modbus 프로토콜에 양자내성암호를 적용하여 양자컴퓨팅 환경에서도 secure 통신이 가능한 모듈 개발
  - - 하이브리드 방식 kem(Key Encapsulation Mechanism)을 통해 얻은 secure share(private key)값을 이용하여 LEA-GCM으로 경량 환경에서 modbus packet(혹은 TCP를 활용한 다양한 프로토콜)의 암호화 통신이 가능한 모듈
 
@@ -13,7 +13,7 @@
 
  - **Secure Network Program**
  - - TCP Server/Client
- - - Symmetric Cryptosystem - ARIA-GCM (directly implemented) (+ parallel implementation)
+ - - Symmetric Cryptosystem - ARIA-GCM (remove openssl dependency) (+ parallel implementation)
 <br>
 
 **🌒 고전암호와 분석**
