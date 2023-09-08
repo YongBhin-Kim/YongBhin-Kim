@@ -33,7 +33,7 @@
 <br>
 
 **🌓 기타 프로젝트**
-- OOAD(Object-Oriented Analysis and Design) project (C++)
+- <a href="https://github.com/YongBhin-Kim/oo-cryptosystem">**OOAD(Object-Oriented Analysis and Design) project (C++)** </a><br>
 - Snake Game (C++, ncurses)
 
 
