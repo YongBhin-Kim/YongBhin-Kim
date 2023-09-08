@@ -13,8 +13,8 @@
 - **NIST PQC PKE/KEM finalist 격자 기반 암호 Crystals-Kyber**
 - - Analysis and Implement / NSHC 암호기술연구소 인턴쉽 프로그램
 - **그래프 기반 암호 IPCC(Improved Perfect Code Cryptosystem)**
-- - <a href="https://www.kpqc.or.kr/competition.html"> **KpqC Competition Round 1 submit** </a>
-- - <a href="https://www.github.com/KMURASEofficial/ipcc"> **IPCC7: latest implementation** </a>
+- - <a href="https://www.kpqc.or.kr/competition.html"> **KpqC Competition Round 1 submit** </a> **(양자내성암호연구단 홈페이지)**
+- - <a href="https://www.github.com/KMURASEofficial/ipcc"> **IPCC7: latest implementation** </a> **(git에서 최신버전 소스코드 관리)**
 
 
 **🌓 보안 통신**
