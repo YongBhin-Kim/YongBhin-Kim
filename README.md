@@ -3,10 +3,10 @@
 
 **🌓 현대암호 (수학적 분석, CPU/GPU 구현)**
 - <a href="https://github.com/YongBhin-Kim/Crypto"> **AES** </a> 
-- <a href="https://github.com/YongBhin-Kim/Crypto"> **ARIA** </a> 
+- <a href="https://github.com/YongBhin-Kim/Crypto"> **ARIA** </a>
+- <a href="https://github.com/YongBhin-Kim/Crypto"> **GIFT** </a> 
 - **LEA**
 - **SEED**
-- **GIFT**
 - **RSA**
 
 **🌓 차세대 양자내성암호 PQC(Post-Quantom Cryptography) (수학적 분석, C/C++, Python 구현)**
