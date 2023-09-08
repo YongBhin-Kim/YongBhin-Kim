@@ -34,7 +34,7 @@
 
 **🌓 기타 프로젝트**
 - <a href="https://github.com/YongBhin-Kim/oo-cryptosystem">**OOAD(Object-Oriented Analysis and Design) project (C++)** </a><br>
-- Snake Game (C++, ncurses)
+- <a href="https://github.com/YongBhin-Kim/snake-game">**Snake Game (C++, ncurses)** </a><br>
 
 
 <a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 보안 웹 서버 (Spring framework, JNI)**</a>
