@@ -32,8 +32,12 @@
  - - Symmetric Cryptosystem - ARIA-GCM (remove openssl dependency) (parallel implementation)
 <br>
 
+**🌓 기타 프로젝트**
+- OOAD(Object-Oriented Analysis and Design) project (C++)
+- Snake Game (C++, ncurses)
 
-<a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 Secure web server**</a>
+
+<a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 보안 웹 서버 (Spring framework, JNI)**</a>
 - **Linux, Wireshark / Java, JNI, HTML, CSS / Node, React / Spring**
 - **Web Server 게시판**
 - - v1.0. Spring Boot(+ Docker Image) - 도커 이미지 구축
