@@ -1,26 +1,7 @@
 # Yongbhin's GitHub  🌒 🌓 🌔 🌕
 ---
 
-
-**🌔 Secure communication**
- - **Project : modbus tls communication (한국에너지기술연구원, 22.08. ~24.)**
- - - modbus 프로토콜에 양자내성암호를 적용하여 양자컴퓨팅 환경에서도 secure 통신이 가능한 모듈 개발
- - - 하이브리드 방식 kem(Key Encapsulation Mechanism)을 통해 얻은 secure share(private key)값을 이용하여 LEA-GCM으로 경량 환경에서 modbus packet(혹은 TCP를 활용한 다양한 프로토콜)의 암호화 통신이 가능한 모듈
-
-
- - <a href="https://github.com/YongBhin-Kim/secure_ftp_program">**Secure FTP Program**</a>
- - - TCP Server/Client
- - - Hybrid Cryptosystem - RSAES, AES-GCM (use openssl)
-
- - **Secure Network Program**
- - - TCP Server/Client
- - - Symmetric Cryptosystem - ARIA-GCM (remove openssl dependency) (+ parallel implementation)
-<br>
-
-**🌒 고전암호와 분석**
-<br>
-
-**🌓 현대암호 : Crypto-math implementation(+ parallel implementation)**
+**🌓 현대암호 (수학적 분석, CPU/GPU 구현)**
 - <a href="https://github.com/YongBhin-Kim/Crypto"> **AES** </a> 
 - <a href="https://github.com/YongBhin-Kim/Crypto"> **ARIA** </a> 
 - **LEA**
@@ -28,14 +9,29 @@
 - **GIFT**
 - **RSA**
 
+**🌓 차세대 양자내성암호 PQC(Post-Quantom Cryptography) (수학적 분석, C/C++, Python 구현)**
+- **NIST PQC PKE/KEM finalist 격자 기반 암호 Crystals-Kyber**
+- - Analysis and Implement / NSHC 암호기술연구소 인턴쉽 프로그램
+- **그래프 기반 암호 IPCC(Improved Perfect Code Cryptosystem)**
+- - <a href="https://www.kpqc.or.kr/competition.html"> **KpqC Competition Round 1 submit** </a>
+- - <a href="https://www.github.com/KMURASEofficial/ipcc"> **IPCC7: latest implementation** </a>
+
+
+**🌓 보안 통신**
+ - **양자컴퓨팅 환경에 대비한 분산자원 플랫폼 관리용 암호 기술 연구 (한국에너지기술연구원, 22.08. ~24.) (Secure linux network software system, 비공개)**
+ - - Modbus 프로토콜에 양자내성암호(NTRU/Kyber)를 적용하여 양자컴퓨팅 환경에서도 안전한 통신이 가능한 보안 프로토콜 시스템 개발
+ - - 하이브리드 방식 KEM(Key Encapsulation Mechanism)을 통해 얻은 SS(Secure Share; Secret Key)값을 이용하여 국제표준 블록암호 LEA의 운용모드 GCM으로 경량 환경에서 Modbus 프로토콜 패킷의 암호화(기밀성, 무결성 포함) 통신이 가능한 시스템 개발
+
+
+ - <a href="https://github.com/YongBhin-Kim/secure_ftp_program">**Secure FTP Program (학부 수업 프로젝트)**</a>
+ - - TCP Server/Client
+ - - Hybrid Cryptosystem - RSAES, AES-GCM (use openssl)
+
+ - **Secure Network Program**
+ - - TCP Server/Client
+ - - Symmetric Cryptosystem - ARIA-GCM (remove openssl dependency) (parallel implementation)
 <br>
 
-**🌓 PQC**
-- **그래프 기반 암호 IPCC(Improved Perfect Code Cryptosystem)**
-- - <a href="https://www.kpqc.or.kr/competition.html"> **2022.10. KpqC Competition round 1 submit** </a>
-- - <a href="https://www.github.com/KMURASEofficial/ipcc"> **IPCC7: latest implementation** </a>
-- **격자 기반 암호 Crystals-Kyber**
-- - Analysis & Implement / NSHC 암호기술연구소 인턴쉽 프로그램
 
 <a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 Secure web server**</a>
 - **Linux, Wireshark / Java, JNI, HTML, CSS / Node, React / Spring**
@@ -46,13 +42,12 @@
 - - v2.0. Spring Boot(+ Docker Image) - 게시판
 <br>
 
-<a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server**</a>
+
+<a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server(삭제예정)**</a>
 <br>
 
 <a href="https://rb.yongbhin-kim.repl.co/">**🌒 Circles RB**</a>
 <br>
-
-<a href="https://yongbhin-effort.tistory.com/">**🌒 Error, Contemplation and Solution process**</a>
 
 <br>
 <br>
