@@ -3,12 +3,8 @@
 
 
 **🌓 현대암호 (수학적 분석, CPU/GPU 구현)**
-- <a href="https://github.com/YongBhin-Kim/Crypto"> **AES** </a> 
-- <a href="https://github.com/YongBhin-Kim/Crypto"> **ARIA** </a>
-- <a href="https://github.com/YongBhin-Kim/Crypto"> **GIFT** </a> 
-- **LEA**
-- **SEED**
-- **RSA**
+- <a href="https://github.com/YongBhin-Kim/Crypto"> **AES, ARIA, CHAM, GIFT** </a> (현대 블록암호)
+- **LEA, SEED, RSA**
 
 **🌓 차세대 양자내성암호 PQC(Post-Quantom Cryptography) (수학적 분석, C/C++, Python 구현)**
 - **NIST PQC PKE/KEM finalist 격자 기반 암호 Crystals-Kyber**
@@ -24,7 +20,7 @@
  - - 하이브리드 방식 KEM(Key Encapsulation Mechanism)을 통해 얻은 SS(Secure Share; Secret Key)값을 이용하여 국제표준 블록암호 LEA의 운용모드 GCM으로 경량 환경에서 Modbus 프로토콜 패킷의 암호화(기밀성, 무결성 포함) 통신이 가능한 시스템 개발
 
 
- - <a href="https://github.com/YongBhin-Kim/secure_ftp_program">**Secure FTP Program (학부 수업 프로젝트)**</a>
+ - <a href="https://github.com/YongBhin-Kim/secure_ftp_program">**Secure FTP Program**</a> (학부 수업 프로젝트)
  - - TCP Server/Client
  - - Hybrid Cryptosystem - RSAES, AES-GCM (use openssl)
 
@@ -34,11 +30,11 @@
 <br>
 
 **🌓 기타 프로젝트**
-- <a href="https://github.com/YongBhin-Kim/oo-cryptosystem">**OOAD(Object-Oriented Analysis and Design) project (C++)** </a><br>
-- <a href="https://github.com/YongBhin-Kim/snake-game">**Snake Game (C++, ncurses)** </a><br>
+- <a href="https://github.com/YongBhin-Kim/oo-cryptosystem">**OOAD(Object-Oriented Analysis and Design) project** </a> (C++)<br>
+- <a href="https://github.com/YongBhin-Kim/snake-game">**Snake Game** </a> (C++, ncurses) <br>
 
 
-<a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 보안 웹 서버 (Spring framework, JNI)**</a>
+<a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 보안 웹 서버**</a> (Spring framework, JNI)
 - **Linux, Wireshark / Java, JNI, HTML, CSS / Node, React / Spring**
 - **Web Server 게시판**
 - - v1.0. Spring Boot(+ Docker Image) - 도커 이미지 구축
