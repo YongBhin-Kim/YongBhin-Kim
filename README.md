@@ -44,10 +44,10 @@
 <br>
 
 
-<a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux Server(삭제예정)**</a>
+<a href="https://rb.yongbhin-kim.repl.co/">**🌒 Circles RB**</a>
 <br>
 
-<a href="https://rb.yongbhin-kim.repl.co/">**🌒 Circles RB**</a>
+<a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux study**</a>
 <br>
 
 <br>
@@ -74,9 +74,9 @@
 <br>
 
 **[프로젝트]**
+- White-box 제품 분석 및 개발 (비공개)
 - Springboot Framework를 이용한 암호 통신 프로젝트 (SBA)
 - 양자컴퓨팅 환경에 대비한 분산 자원 플랫폼 관리용 암호 기술 연구 (한국에너지기술연구원)
-- White-box 제품 분석 및 개발 (비공개)
 - SnakeGame 프로젝트 (학부 C++ 수업)
 - CryptoSystem (학부 OOAD 수업)
 - Secure FTP program (학부 보안네트워크프로그래밍 수업)
@@ -108,5 +108,4 @@
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white" style="max-width: 100%;"></a>&nbsp
 
   <br>
-* Dart, Rust, Cuda
 </p>
