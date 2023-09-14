@@ -6,7 +6,7 @@
 - <a href="https://github.com/YongBhin-Kim/Crypto"> **AES, ARIA, CHAM, GIFT** </a> (현대 블록암호)
 - **LEA, SEED, RSA**
 
-**🌓 차세대 양자내성암호 PQC(Post-Quantom Cryptography) (수학적 분석, C/C++, Python 구현)**
+**🌔 차세대 양자내성암호 PQC(Post-Quantom Cryptography) (수학적 분석, C/C++, Python 구현)**
 - **NIST PQC PKE/KEM finalist 격자 기반 암호 Crystals-Kyber**
 - - <a href="https://github.com/YongBhin-Kim/pqc-crystals-kyber"> **Analysis and Implement** </a> / NSHC 암호기술연구소 인턴쉽 프로그램
 - **그래프 기반 암호 IPCC(Improved Perfect Code Cryptosystem)**
