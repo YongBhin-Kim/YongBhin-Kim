@@ -80,7 +80,7 @@
 - SnakeGame 프로젝트 (학부 C++ 수업)
 - CryptoSystem (학부 OOAD 수업)
 - Secure FTP program (학부 보안네트워크프로그래밍 수업)
-- Libsync (Big integer arithmetic, 학부 고급응용프로그래밍 수업, 진행중)
+- Lib-sync (Big integer arithmetic, 학부 고급응용프로그래밍 수업, 진행중)
 <br>
 <br>
 
