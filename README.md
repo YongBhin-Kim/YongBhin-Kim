@@ -32,7 +32,7 @@
 **🌓 기타 프로젝트**
 - <a href="https://github.com/YongBhin-Kim/oo-cryptosystem">**OOAD(Object-Oriented Analysis and Design) project** </a> (C++) <br>
 - <a href="https://github.com/YongBhin-Kim/snake-game">**Snake Game** </a> (C++, ncurses) <br>
-- <a href="https://github.com/YongBhin-Kim/big-integer-arithmetic">**Biginteger arithmetic** </a> (고급응용프로그래밍) <br>
+- <a href="https://github.com/YongBhin-Kim/big-integer-arithmetic">**Biginteger arithmetic** </a> (C, 고급응용프로그래밍) <br>
 
 
 <a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 보안 웹 서버**</a> (Spring framework, JNI)
