@@ -24,17 +24,21 @@
 <br>
 
 **[프로젝트]**
-- White-box 제품 분석 및 개발(비공개)
-- Springboot Framework를 이용한 암호 통신 프로젝트(SBA) (spring 구현물 href)
-- 양자컴퓨팅 환경에 대비한 분산 자원 플랫폼 관리용 암호 기술 연구(한국에너지기술연구원)
-- Lib-sync: Big integer arithmetic operations(학부 고급응용프로그래밍) (구현물 href) (notion href)
+- Crypto: Ref. impl. of various cryptographic algorithms with attack/opt. schemes (자체 주관 프로젝트)
+- White-box 제품 분석 및 개발: LEA 기반의 새로운 White-Box Cryptography Solution 설계와 구현 (비공개)
+- 양자컴퓨팅 환경에 대비한 분산 자원 플랫폼 관리용 암호 기술 연구(한국에너지기술연구원) (구현물 비공개)
+- Lib-sync: Big integer arithmetic operations (학부 고급응용프로그래밍) (구현물 href) (notion href)
 - Secure FTP program(학부 보안네트워크프로그래밍) (구현물 href)
+- Springboot Framework를 이용한 암호 통신 프로젝트(SBA) (spring 구현물 href)
 - SnakeGame: mini console games(학부 C++) (구현물 href)
 - CryptoSystem: ooad crypto system(학부 OOAD) (구현물 href)
+- Tree: BST, AVS, B-tree(학부 File Processing) (구현물 href)
 
 **[토이 프로젝트]**
 - JNI: Hello World! (구현물 href)
 - Node & React: build a movie review app (구현물 href)
+- Block chain: Simple block chain with hash (구현물 href)
+- Algorithms: Coding test algorithms (구현물 href)
 <br>
 <br>
 
