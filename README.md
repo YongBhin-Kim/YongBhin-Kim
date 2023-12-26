@@ -31,6 +31,10 @@
 - Secure FTP program(학부 보안네트워크프로그래밍) (구현물 href)
 - SnakeGame: mini console games(학부 C++) (구현물 href)
 - CryptoSystem: ooad crypto system(학부 OOAD) (구현물 href)
+
+**[토이 프로젝트]**
+- JNI: Hello World! (구현물 href)
+- Node & React: build a movie review app (구현물 href)
 <br>
 <br>
 
