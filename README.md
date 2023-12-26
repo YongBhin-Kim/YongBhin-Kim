@@ -1,88 +1,34 @@
-# Yongbhin's GitHub  🌒 🌓 🌔 🌕
+# Yongbhin Kim 🌒 🌓 🌔 🌕
 ---
-
-
-**🌓 현대암호 (수학적 분석, CPU/GPU 구현)**
-- <a href="https://github.com/YongBhin-Kim/Crypto"> **AES, ARIA, CHAM, GIFT** </a> (현대 블록암호, 운용모드)
-- **LEA, SEED, RSA, ECC**
-
-**🌔 차세대 양자내성암호 PQC(Post-Quantom Cryptography) (수학적 분석, C/C++, Python 구현)**
-- **NIST PQC PKE/KEM finalist 격자 기반 암호 Crystals-Kyber**
-- - <a href="https://github.com/YongBhin-Kim/pqc-crystals-kyber"> **Analysis and Implement of Crystals-Kyber** </a> / NSHC 암호기술연구소 인턴십 프로그램
-- **그래프 기반 암호 IPCC(Improved Perfect Code Cryptosystem)**
-- - <a href="https://www.kpqc.or.kr/competition.html"> **KpqC Competition Round 1 submit** </a> **(양자내성암호연구단 홈페이지)**
-- - <a href="https://www.github.com/KMURASEofficial/ipcc"> **IPCC7: latest implementation** </a> **(Github에서 최신버전 소스코드 관리)**
-- **NIST PQC Signature finalist 격자 기반 암호 Crystals-Dilithium**
-
-
-**🌓 보안 통신**
- - **양자컴퓨팅 환경에 대비한 분산자원 플랫폼 관리용 암호 기술 연구 (한국에너지기술연구원, 22.08. ~24.) (Secure linux network software system, 비공개)**
- - - Modbus 프로토콜에 양자내성암호(NTRU/Kyber)를 적용하여 양자컴퓨팅 환경에서도 안전한 통신이 가능한 보안 프로토콜 시스템 개발
- - - 하이브리드 방식 KEM(Key Encapsulation Mechanism)을 통해 얻은 SS(Secure Share; Secret Key)값을 이용하여 국제표준 블록암호 LEA의 운용모드 GCM으로 경량 환경에서 Modbus 프로토콜 패킷의 암호화(기밀성, 무결성 포함) 통신이 가능한 시스템 개발
-
-
- - <a href="https://github.com/YongBhin-Kim/secure_ftp_program">**Secure FTP Program**</a> (학부 수업 프로젝트)
- - - TCP Server/Client
- - - Hybrid Cryptosystem - RSAES, AES-GCM (use openssl)
-
- - **Secure Network Program**
- - - TCP Server/Client
- - - Symmetric Cryptosystem - ARIA-GCM (remove openssl dependency) (parallel implementation)
-<br>
-
-**🌓 기타 프로젝트**
-- <a href="https://github.com/YongBhin-Kim/oo-cryptosystem">**OOAD(Object-Oriented Analysis and Design) project** </a> (C++) <br>
-- <a href="https://github.com/YongBhin-Kim/snake-game">**Snake Game** </a> (C++, ncurses) <br>
-- <a href="https://github.com/YongBhin-Kim/big-integer-arithmetic">**Biginteger arithmetic** </a> (C, 고급응용프로그래밍) <br>
-
-
-<a href="https://github.com/YongBhin-Kim/Crypto-WebServer">**🌒 보안 웹 서버**</a> (Spring framework, JNI)
-- **Linux, Wireshark / Java, JNI, HTML, CSS / Node, React / Spring**
-- **Web Server 게시판**
-- - v1.0. Spring Boot(+ Docker Image) - 도커 이미지 구축
-- - v1.1. Spring Boot(+ Docker Image) - 통신
-- - v1.2. Spring Boot(+ Latest) - JNI를 이용한 암/복호화 통신
-- - v2.0. Spring Boot(+ Docker Image) - 게시판
-<br>
-
-
-<a href="https://rb.yongbhin-kim.repl.co/">**🌒 Circles RB**</a>
-<br>
-
-<a href="https://linuxyb.kimyongbhin.repl.co">**🌒 Linux study**</a>
-<br>
-
-<br>
-<br>
-
-**[수상 경력]**
-- 2021 국민대학교 암호분석경진대회 최우수상
-- 2022 국민대학교 암호분석경진대회 최우수상
-- 2022년 제 3회 취창업페스티벌 우수포트폴리오 대회 장려상
-- 2023 국방암호기술특화연구센터 주관 암호분석경진대회 특별상 (신호기술연구소장상)
-<br>
 
 **[경력]**
 - NSHC 암호기술연구소 인턴십(23.1.2 - 23.2.28)
-- 한국인터넷진흥원(KISA) 차세대암호기술팀(23.12.1 - )
+- 한국인터넷진흥원(KISA) 차세대암호기술팀(23.12.1 - now)
 <br>
 
 **[특허]**
-- 모드버스 오류 처리 장치 및 방법 (23.02.20 출원)
+- 모드버스 오류 처리 장치 및 방법 특허 출원(23.2.20)
 <br>
 
 **[공모전]**
-- KpqC Competition round 1 알고리즘 IPCC 제안 (22.10.31 - 심사중)
+- KpqC Competition round 1 알고리즘 IPCC 제안(22.10.31)
+<br>
+
+**[수상]**
+- 2023 국방암호기술특화연구센터 주관 암호분석경진대회 특별상(신호기술연구소장상)
+- 2021 국민대학교 암호분석경진대회 최우수상
+- 2022 국민대학교 암호분석경진대회 최우수상
+- 2022년 제 3회 취창업페스티벌 우수포트폴리오 대회 장려상
 <br>
 
 **[프로젝트]**
-- White-box 제품 분석 및 개발 (비공개)
-- Springboot Framework를 이용한 암호 통신 프로젝트 (SBA)
-- 양자컴퓨팅 환경에 대비한 분산 자원 플랫폼 관리용 암호 기술 연구 (한국에너지기술연구원)
-- SnakeGame 프로젝트 (학부 C++ 수업)
-- CryptoSystem (학부 OOAD 수업)
-- Secure FTP program (학부 보안네트워크프로그래밍 수업)
-- Lib-sync (Big integer arithmetic, 학부 고급응용프로그래밍 수업, 진행중)
+- White-box 제품 분석 및 개발(비공개)
+- Springboot Framework를 이용한 암호 통신 프로젝트(SBA)
+- 양자컴퓨팅 환경에 대비한 분산 자원 플랫폼 관리용 암호 기술 연구(한국에너지기술연구원)
+- SnakeGame: mini console games(학부 C++)
+- CryptoSystem: ooad crypto system(학부 OOAD)
+- Secure FTP program(학부 보안네트워크프로그래밍)
+- Lib-sync: Big integer arithmetic operations(학부 고급응용프로그래밍)
 <br>
 <br>
 
