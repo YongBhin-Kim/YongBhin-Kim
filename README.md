@@ -3,6 +3,7 @@
 
 **[경력]**
 - NSHC 암호기술연구소 인턴십(23.1.2 - 23.2.28)
+- - Nist PQC Competition Finalist Crystals-Kyber에 관한 연구 및 구현 (kyber 구현물 href)
 - 한국인터넷진흥원(KISA) 차세대암호기술팀(23.12.1 - now)
 <br>
 
@@ -11,24 +12,25 @@
 <br>
 
 **[공모전]**
-- KpqC Competition round 1 알고리즘 IPCC 제안(22.10.31)
+- KpqC Competition round 1 알고리즘 IPCC 제안(22.10.31) (KpqC 사이트 href)
+- - 그래프 기반 양자내성암호 알고리즘 IPCC (구현물 사이트 href) 
 <br>
 
 **[수상]**
-- 2023 국방암호기술특화연구센터 주관 암호분석경진대회 특별상(신호기술연구소장상)
-- 2021 국민대학교 암호분석경진대회 최우수상
-- 2022 국민대학교 암호분석경진대회 최우수상
-- 2022년 제 3회 취창업페스티벌 우수포트폴리오 대회 장려상
+- 2023 국방암호기술특화연구센터 주관 암호분석경진대회 특별상(신호기술연구소장상): 2인 팀, 팀명 두얼간이 (홈페이지 href)
+- 2021 국민대학교 암호분석경진대회 최우수상: 3인 팀
+- 2022 국민대학교 암호분석경진대회 최우수상: 3인 팀
+- 2022년 제 3회 취창업페스티벌 우수포트폴리오 대회 장려상: 개인
 <br>
 
 **[프로젝트]**
 - White-box 제품 분석 및 개발(비공개)
-- Springboot Framework를 이용한 암호 통신 프로젝트(SBA)
+- Springboot Framework를 이용한 암호 통신 프로젝트(SBA) (spring 구현물 href)
 - 양자컴퓨팅 환경에 대비한 분산 자원 플랫폼 관리용 암호 기술 연구(한국에너지기술연구원)
-- SnakeGame: mini console games(학부 C++)
-- CryptoSystem: ooad crypto system(학부 OOAD)
-- Secure FTP program(학부 보안네트워크프로그래밍)
-- Lib-sync: Big integer arithmetic operations(학부 고급응용프로그래밍)
+- Lib-sync: Big integer arithmetic operations(학부 고급응용프로그래밍) (구현물 href) (notion href)
+- Secure FTP program(학부 보안네트워크프로그래밍) (구현물 href)
+- SnakeGame: mini console games(학부 C++) (구현물 href)
+- CryptoSystem: ooad crypto system(학부 OOAD) (구현물 href)
 <br>
 <br>
 
