@@ -3,7 +3,7 @@
 
 **[경력]**
 - NSHC 암호기술연구소 인턴십(23.1.2 - 23.2.28)
-- - Nist PQC Competition Finalist Crystals-Kyber에 관한 연구 및 구현 (kyber 구현물 href)
+- - NIST 양자내성암호공모전 Finalist Crystals-Kyber에 관한 연구 및 구현 (kyber 구현물 href)
 - 한국인터넷진흥원(KISA) 차세대암호기술팀(23.12.1 - now)
 <br>
 
@@ -12,8 +12,7 @@
 <br>
 
 **[공모전]**
-- KpqC Competition round 1 알고리즘 IPCC 제안(22.10.31) (KpqC 사이트 href)
-- - 그래프 기반 양자내성암호 알고리즘 IPCC (구현물 사이트 href) 
+- 한국 양자내성암호공모전(KpqC Competition) Round 1 알고리즘 IPCC 제안(22.10.31) (KpqC 사이트 href) (구현물 사이트 href)
 <br>
 
 **[수상]**
@@ -28,11 +27,13 @@
 - White-box 제품 분석 및 개발: LEA 기반의 새로운 White-Box Cryptography Solution 설계와 구현 (비공개)
 - 양자컴퓨팅 환경에 대비한 분산 자원 플랫폼 관리용 암호 기술 연구(한국에너지기술연구원) (구현물 비공개)
 - Lib-sync: Big integer arithmetic operations (학부 고급응용프로그래밍) (구현물 href) (notion href)
+- Mini-Dart: lexical/syntax analyzer (학부 컴파일러)
 - Secure FTP program(학부 보안네트워크프로그래밍) (구현물 href)
 - Springboot Framework를 이용한 암호 통신 프로젝트(SBA) (spring 구현물 href)
 - SnakeGame: mini console games(학부 C++) (구현물 href)
 - CryptoSystem: ooad crypto system(학부 OOAD) (구현물 href)
 - Tree: BST, AVS, B-tree(학부 File Processing) (구현물 href)
+- P2P (학부 컴퓨터네트워크) (구현물 href)
 
 **[토이 프로젝트]**
 - JNI: Hello World! (구현물 href)
@@ -44,6 +45,7 @@
 
 
 <h3 align = "center">🏆 Teck Stack 🏆<h3>
+  Cuda추가
 <p align = "center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" style="max-width: 100%;"></a>&nbsp
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="max-width: 100%;"></a>&nbsp
