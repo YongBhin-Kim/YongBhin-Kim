@@ -29,6 +29,7 @@
 - Lib-sync: Big integer arithmetic operations (학부 고급응용프로그래밍) (구현물 href) (notion href)
 - Mini-Dart: lexical/syntax analyzer (학부 컴파일러)
 - Secure FTP program(학부 보안네트워크프로그래밍) (구현물 href)
+- White-Box Cryptography: CEJO's AES WBC and BGE attack
 - Springboot Framework를 이용한 암호 통신 프로젝트(SBA) (spring 구현물 href)
 - SnakeGame: mini console games(학부 C++) (구현물 href)
 - CryptoSystem: ooad crypto system(학부 OOAD) (구현물 href)
