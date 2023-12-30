@@ -22,6 +22,9 @@
 - 2022년 제 3회 취창업페스티벌 우수포트폴리오 대회 장려상: 개인
 <br>
 
+**[논문]**
+- IEEE Access 
+
 **[프로젝트]**
 - Crypto: Ref. impl. of various cryptographic algorithms with attack/opt. schemes (자체 주관 프로젝트)
 - White-box 제품 분석 및 개발: LEA 기반의 새로운 White-Box Cryptography Solution 설계와 구현 (비공개)
