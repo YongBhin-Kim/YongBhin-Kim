@@ -24,6 +24,7 @@
 
 **[논문]**
 - IEEE ACCESS, "IPCC7: Post-Quantum Encryption Scheme Based on a Perfect Dominating Set in 3-Regular Graph" (23.12.18)
+- GPU를 이용한 경량 블록암호 CHAM의 CTR-DRBG의 난수열 추출(진행중)
 
 **[프로젝트]**
 - Crypto: Ref. impl. of various cryptographic algorithms with attack/opt. schemes (자체 주관 프로젝트)
