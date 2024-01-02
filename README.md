@@ -23,7 +23,7 @@
 <br>
 
 **[논문]**
-- IEEE Access 
+- IEEE ACCESS, "IPCC7: Post-Quantum Encryption Scheme Based on a Perfect Dominating Set in 3-Regular Graph" (23.12.18)
 
 **[프로젝트]**
 - Crypto: Ref. impl. of various cryptographic algorithms with attack/opt. schemes (자체 주관 프로젝트)
