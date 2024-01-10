@@ -31,7 +31,7 @@
 - White-box 제품 분석 및 개발: LEA 기반의 새로운 White-Box Cryptography Solution 설계와 구현 (비공개)
 - 양자컴퓨팅 환경에 대비한 분산 자원 플랫폼 관리용 암호 기술 연구(한국에너지기술연구원) (구현물 비공개)
 - Lib-sync: Big integer arithmetic operations (학부 고급응용프로그래밍) (<a href="https://github.com/YongBhin-Kim/big-integer-arithmetic"> 구현물 </a>) (<a href=""> Notion </a>)
-- Mini-Dart: lexical/syntax analyzer (학부 컴파일러)
+- Mini-Dart: lexical/syntax analyzer (학부 컴파일러) (<a href="https://github.com/YongBhin-Kim/compiler"> 구현물 </a>) 
 - Secure FTP program(학부 보안네트워크프로그래밍) (구현물 href)
 - White-Box Cryptography: CEJO's AES WBC and BGE attack
 - Springboot Framework를 이용한 암호 통신 프로젝트(SBA) (spring 구현물 href)
