@@ -48,9 +48,12 @@
 <br>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongBhin-Kim)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=YongBhin-Kim)](https://github.com/anuraghazra/github-readme-stats) <br>
+
 
 <h3 align = "center">🏆 Teck Stack 🏆<h3>
-  Cuda추가
 <p align = "center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" style="max-width: 100%;"></a>&nbsp
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="max-width: 100%;"></a>&nbsp
