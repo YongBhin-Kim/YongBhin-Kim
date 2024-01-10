@@ -23,7 +23,7 @@
 <br>
 
 **[논문]**
-- IEEE ACCESS, "IPCC7: Post-Quantum Encryption Scheme Based on a Perfect Dominating Set in 3-Regular Graph" (23.12.18)
+- IEEE ACCESS, "IPCC7: Post-Quantum Encryption Scheme Based on a Perfect Dominating Set in 3-Regular Graph" (23.12.18) (<a href="https://ieeexplore.ieee.org/document/10380586"> doi </a>)
 - GPU를 이용한 경량 블록암호 CHAM의 CTR-DRBG의 난수열 추출(진행중)
 
 **[프로젝트]**
