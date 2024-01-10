@@ -3,7 +3,7 @@
 
 **[경력]**
 - NSHC 암호기술연구소 인턴십(23.1.2 - 23.2.28)
-- - NIST 양자내성암호공모전 Finalist Crystals-Kyber에 관한 연구 및 구현 (<a href="https://github.com/YongBhin-Kim/pqc-crystals-kyber"> 구현물 </a>)
+- - NIST 양자내성암호공모전 Finalist PKE/KEM Crystals-Kyber에 관한 연구 및 구현 (<a href="https://github.com/YongBhin-Kim/pqc-crystals-kyber"> 구현물 </a>)
 - 한국인터넷진흥원(KISA) 차세대암호기술팀(23.12.1 - now) (<a href="https://www.kisa.or.kr/603"> 사이트 </a>)
 <br>
 
@@ -27,10 +27,10 @@
 - GPU를 이용한 경량 블록암호 CHAM의 CTR-DRBG의 난수열 추출(진행중)
 
 **[프로젝트]**
-- Crypto: Ref. impl. of various cryptographic algorithms with attack/opt. schemes (자체 주관 프로젝트)
+- Crypto: Ref. impl. of various cryptographic algorithms with attack/opt. schemes (자체 주관 프로젝트) (<a href="https://github.com/YongBhin-Kim/crypto-symmetric"> 클릭 </a>)
 - White-box 제품 분석 및 개발: LEA 기반의 새로운 White-Box Cryptography Solution 설계와 구현 (비공개)
 - 양자컴퓨팅 환경에 대비한 분산 자원 플랫폼 관리용 암호 기술 연구(한국에너지기술연구원) (구현물 비공개)
-- Lib-sync: Big integer arithmetic operations (학부 고급응용프로그래밍) (구현물 href) (notion href)
+- Lib-sync: Big integer arithmetic operations (학부 고급응용프로그래밍) (<a href="https://github.com/YongBhin-Kim/big-integer-arithmetic"> 구현물 </a>) (<a href=""> Notion </a>)
 - Mini-Dart: lexical/syntax analyzer (학부 컴파일러)
 - Secure FTP program(학부 보안네트워크프로그래밍) (구현물 href)
 - White-Box Cryptography: CEJO's AES WBC and BGE attack
