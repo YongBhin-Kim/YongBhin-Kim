@@ -41,7 +41,7 @@
 - P2P (학부 컴퓨터네트워크) (<a href=""> 구현물 </a>)
 
 **[토이 프로젝트]**
-- JNI: Hello World! (구현물 href)
+- JNI: Hello World! (<a href="https://github.com/YongBhin-Kim/JNI"> 클릭 </a>)
 - Node & React: build a movie review app (구현물 href)
 - Block chain: Simple block chain with hash (구현물 href)
 - Algorithms: Coding test algorithms (구현물 href)
