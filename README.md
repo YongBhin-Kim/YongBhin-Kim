@@ -42,9 +42,9 @@
 
 **[토이 프로젝트]**
 - JNI: Hello World! (<a href="https://github.com/YongBhin-Kim/JNI"> 클릭 </a>)
-- Node & React: build a movie review app (구현물 href)
-- Block chain: Simple block chain with hash (구현물 href)
-- Algorithms: Coding test algorithms (구현물 href)
+- Node & React: build a movie review app (<a href="https://github.com/YongBhin-Kim/movie-website-node-react"> 클릭 </a>)
+- Block chain: Simple block chain with hash (<a href="https://github.com/YongBhin-Kim/blockchain"> 클릭 </a>)
+- Algorithms: Coding test algorithms (<a href="https://github.com/YongBhin-Kim/algorithm"> 클릭 </a>)
 <br>
 <br>
 
