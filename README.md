@@ -15,7 +15,7 @@
 <br>
 
 **[공모전]**
-- 한국 양자내성암호공모전(KpqC Competition) Round 1 알고리즘 IPCC 제안(22.10.31) (<a href="https://kpqc.or.kr/competition.html"> KpqC 사이트 </a>) (<a href="https://github.com/KMURASEofficial/ipcc"> 구현물 </a>)
+- 한국 양자내성암호공모전(KpqC Competition) Round 1 알고리즘 IPCC 개발(22.10.31) (<a href="https://kpqc.or.kr/competition.html"> KpqC 사이트 </a>) (<a href="https://github.com/KMURASEofficial/ipcc"> 구현물 </a>)
 <br>
 
 **[수상]**
