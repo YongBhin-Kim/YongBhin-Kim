@@ -30,7 +30,7 @@
 - GPU를 이용한 경량 블록암호 CHAM의 CTR-DRBG의 난수열 추출(진행중)
 
 **[프로젝트]**
-- Crypto: Ref. impl. of various cryptographic algorithms with attack/opt. schemes (자체 주관 프로젝트) (<a href="https://github.com/YongBhin-Kim/crypto-symmetric"> 클릭 </a>)
+- Crypto: impl. of various cryptographic algorithms with attack/opt. schemes (자체 주관 프로젝트) (<a href="https://github.com/YongBhin-Kim/crypto-symmetric"> 클릭 </a>)
 - White-box 제품 분석 및 개발: LEA 기반의 새로운 White-Box Cryptography Solution 설계와 구현 (비공개)
 - 양자컴퓨팅 환경에 대비한 분산 자원 플랫폼 관리용 암호 기술 연구(한국에너지기술연구원) (구현물 비공개)
 - Lib-sync: Big integer arithmetic operations (학부 고급응용프로그래밍) (<a href="https://github.com/YongBhin-Kim/big-integer-arithmetic"> 구현물 </a>) (<a href=""> Notion </a>)
