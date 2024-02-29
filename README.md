@@ -8,7 +8,6 @@
 - 한국인터넷진흥원(KISA) 차세대암호기술팀(23.12.1 - now) (<a href="https://www.kisa.or.kr/603"> 사이트 </a>)
 - - KCMVP(Korea Cryptographic Module Validation Program)
   - PQC(Post-Quantum Cryptography)
-  - ?
 <br>
 
 **[특허]**
