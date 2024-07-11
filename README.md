@@ -2,7 +2,6 @@
 
 
 
-
 **[경력]**
 - NSHC 암호기술연구소 인턴십(23.1.2 - 23.2.28)
 - - NIST 양자내성암호공모전 Finalist PKE/KEM Crystals-Kyber에 관한 분석 및 구현 (<a href="https://github.com/YongBhin-Kim/pqc-crystals-kyber"> 구현물 </a>)
