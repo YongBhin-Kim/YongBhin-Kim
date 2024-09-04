@@ -5,11 +5,11 @@
 
 **[경력]**
 - NSHC 암호기술연구소 인턴십(23.1.2 - 23.2.28)
-- - NIST 양자내성암호공모전 Finalist PKE/KEM Crystals-Kyber에 관한 분석 및 구현 (<a href="https://github.com/YongBhin-Kim/pqc-crystals-kyber"> 구현물 </a>)
+- - NIST 양자내성암호공모전 Finalist PKE/KEM Crystals-Kyber(ML-KEM)에 관한 분석 및 구현 (<a href="https://github.com/YongBhin-Kim/pqc-crystals-kyber"> 구현물 </a>)
 - 한국인터넷진흥원(KISA) 차세대암호기술팀(23.12.1 - now) (<a href="https://www.kisa.or.kr/603"> 사이트 </a>)
 - - KCMVP(Korea Cryptographic Module Validation Program) - <a href="https://seed.kisa.or.kr/kisa/kcmvp/EgovSummary.do"> 암호모듈 시험평가 </a>
   - <a href="https://www.kcmvp.or.kr"> 암호모듈검증 및 사전검증 서비스 운영 </a>
-  - 암호모듈 시험평가 기관 사이트(배포 준비)
+  - 암호모듈 시험평가 기관 사이트
   - <a href="https://seed.kisa.or.kr"> 암호이용활성화 홈페이지 관리 </a>
 <br>
 
