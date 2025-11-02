@@ -22,6 +22,7 @@
 <br>
 
 **[수상]**
+- 2025 사이버공격방어대회 본선: 팀명 팀명하나는기깔나게지었어요(<a href="https://cce.cstec.kr/"> 클릭 </a>)
 - 2024 암호분석경진대회 특별상: 팀명 암호주머니 (<a href="https://cryptocontest.kr"> 클릭 </a>)
 - 2023 암호분석경진대회 특별상(신호기술연구소장상): 팀명 두얼간이 (<a href="https://cryptocontest.kr/notice?uid=98&mod=document&pageid=1"> 클릭 </a>)
 - 2021 국민대학교 암호분석경진대회 최우수상: 3인 팀
