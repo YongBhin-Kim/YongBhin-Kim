@@ -21,6 +21,9 @@
 - 한국 양자내성암호공모전(KpqC Competition) Round 1 알고리즘 IPCC 개발(22.10.31) (<a href="https://kpqc.or.kr/competition.html"> KpqC 사이트 </a>) (<a href="https://github.com/KMURASEofficial/ipcc"> 구현물 </a>)
 <br>
 
+**[발표]**
+- 암호 분야 취업 특강(국민대학교, 2024)
+
 **[수상]**
 - 2025 사이버공격방어대회 본선: 팀명 팀명하나는기깔나게지었어요(<a href="https://cce.cstec.kr/"> 클릭 </a>)
 - 2024 암호분석경진대회 특별상: 팀명 암호주머니 (<a href="https://cryptocontest.kr"> 클릭 </a>)
