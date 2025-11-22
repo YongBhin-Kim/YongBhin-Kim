@@ -22,7 +22,7 @@
 <br>
 
 **[발표]**
-- (<a href=""> 클릭 </a>)
+- (<a href="https://github.com/YongBhin-Kim/Expert-Presentation"> 클릭 </a>)
 - 해외 암호모듈 검증 동향(2025, CVC)
 - 암호모듈검증 및 사전검증 서비스(2024, CVC)
 - 양자내성암호(PQC) Crystals-Kyber에 대한 분석(2024, 미래암호워크숍)
