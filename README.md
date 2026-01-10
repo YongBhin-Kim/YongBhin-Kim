@@ -1,6 +1,8 @@
 # Yongbhin Kim [![Hits](https://hits.sh/github.com/YongBhin-Kim/hit-counter.svg)](https://hits.sh/github.com/YongBhin-Kim/hit-counter)
 
-
+🌱 **김용빈**
+- 안녕하세요, 저는 암호와 구현을 좋아하는 회사원입니다.
+- 문제를 원리 수준부터 이해하고 이를 실제 구현으로 이어가는 과정에서 즐거움과 성취감을 느낍니다.
 
 **[경력]**
 - NSHC 암호기술연구소 인턴십(23.1.2 - 23.2.28)
